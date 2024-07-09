@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-a-kowalkowska
+- 👋 Hi, I’m Justyna
 - 👀 I’m interested in website programming
 - 📫 How to reach me? <a href="www.linkedin.com/in/j-kowalkowska">On LinkedIn</a>
 
